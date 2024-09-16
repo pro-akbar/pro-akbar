@@ -10,14 +10,14 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pro-akbar&theme=dark)
 
-<!---
+
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=atif1169&theme=vision-friendly-dark" />
  </a>
  <a href=""> 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif1169&layout=compact&langs_count=8&card_width=320&theme=vision-friendly-dark" />
  </a> 
- --->
+
 
 
 <br /><br />
