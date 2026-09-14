@@ -1,144 +1,139 @@
-<div align="center">
+<h1 align="center">Ali Akbar</h1>
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  root@proakbar:~$ whoami                                 │
-│  > Ali "Pro" Akbar — Senior Flutter Dev / CEO             │
-│  root@proakbar:~$ status                                  │
-│  > 6+ yrs online :: 18 apps deployed :: access granted    │
-└─────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  Senior Flutter Developer · CEO, Exidevs · Team Lead
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=39FF14&center=true&vCenter=true&width=720&lines=%3E+Pro+Akbar+_+Senior+Flutter+Dev;%3E+CEO+%40Exidevs+%C2%B7+Team+Lead;%3E+18+apps+shipped+%7C+Play+%26+App+Store;%3E+compiling+ideas+into+production..." alt="typing" />
+<p align="center">
+  6+ years building cross-platform apps shipped on Play Store and App Store<br/>
+  for government, startups, and international clients.
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://proakbar.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-proakbar.netlify.app-0969DA?style=flat-square&labelColor=24292F" alt="Portfolio" />
+  </a>
+  <a href="mailto:akbarstudyinfo786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akbarstudyinfo786%40gmail.com-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/923166424855">
+    <img src="https://img.shields.io/badge/WhatsApp-+92_316_6424855-24292F?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+  </a>
+  <a href="https://x.com/proAkbar0">
+    <img src="https://img.shields.io/badge/X-proAkbar0-24292F?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-proakbar.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117)](https://proakbar.netlify.app)
-[![Email](https://img.shields.io/badge/EMAIL-akbarstudyinfo786-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117)](mailto:akbarstudyinfo786@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B92_316_6424855-000000?style=for-the-badge&logo=whatsapp&logoColor=39FF14&labelColor=0D1117)](https://wa.me/923166424855)
-[![Twitter](https://img.shields.io/badge/X-akbarstudyinfo-000000?style=for-the-badge&logo=x&logoColor=39FF14&labelColor=0D1117)](https://twitter.com/akbarstudyinfo)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pro-akbar&label=Profile%20views&color=0969DA&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pro-akbar?label=Followers&style=flat-square&color=0969DA" alt="Followers" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=pro-akbar&label=CONNECTIONS+ESTABLISHED&color=39FF14&style=for-the-badge&labelColor=0D1117" alt="views" />
+<h2>About</h2>
 
-</div>
+I take mobile products from architecture to store release: Flutter UI, REST and Firebase backends, payments, push notifications, and CI/CD. Based in Pakistan, available for remote freelance, contract, and full-time work.
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Experience-6%2B_years-0969DA?style=flat-square&labelColor=24292F" alt="Experience" />
+  <img src="https://img.shields.io/badge/Projects-36%2B-6E7781?style=flat-square&labelColor=24292F" alt="Projects" />
+  <img src="https://img.shields.io/badge/Live_apps-18-6E7781?style=flat-square&labelColor=24292F" alt="Live apps" />
+  <img src="https://img.shields.io/badge/Clients-30%2B-6E7781?style=flat-square&labelColor=24292F" alt="Clients" />
+</p>
 
-```diff
-+ ./about.sh --run
-```
+<h2>Tech stack</h2>
 
-I build production mobile apps end to end — architecture, pixel-perfect Flutter UI, REST/Firebase backends, Stripe, push notifications, CI/CD, and store release. CEO & team lead at **Exidevs**. Currently accepting freelance, contract, and collaboration requests.
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,apple,firebase,spring,java,python,docker,git,figma,aws,github" alt="Tech stack" />
+</p>
 
-📍 `Okara / Lahore, Pakistan` · 🌐 `remote — all timezones`
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Bloc-0175C2?style=flat-square" alt="Bloc" />
+  <img src="https://img.shields.io/badge/GetX-0175C2?style=flat-square" alt="GetX" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
 
-<div align="center">
+<h2>GitHub</h2>
 
-| ⏳ UPTIME | 📦 DEPLOYED | 📱 LIVE | 🤝 CLIENTS |
-|:---:|:---:|:---:|:---:|
-| **6+ yrs** | **36+ projects** | **18 apps** | **30+** |
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=pro-akbar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pro-akbar&layout=compact&langs_count=8&hide_border=true&theme=github_dark&card_width=320" alt="Top languages" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pro-akbar&theme=github-dark-blue&hide_border=true&locale=en" alt="Contribution streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/0969da/pro-akbar" alt="Contribution calendar" />
+</p>
 
-```diff
-+ ./stack.sh --list
-```
+<h2>Last commit by repository</h2>
 
-<div align="center">
+<table>
+  <tr>
+    <td><b>Repository</b></td>
+    <td><b>Last commit</b></td>
+    <td><b>Activity</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pro-akbar/Mimic-Ai">Mimic-Ai</a></td>
+    <td><img src="https://img.shields.io/github/last-commit/pro-akbar/Mimic-Ai?style=flat-square&color=0969DA" alt="last commit" /></td>
+    <td><img src="https://img.shields.io/github/commit-activity/y/pro-akbar/Mimic-Ai?style=flat-square&color=6E7781" alt="activity" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pro-akbar/Complete-Food-Delivery-App-Flutter">Complete-Food-Delivery-App-Flutter</a></td>
+    <td><img src="https://img.shields.io/github/last-commit/pro-akbar/Complete-Food-Delivery-App-Flutter?style=flat-square&color=0969DA" alt="last commit" /></td>
+    <td><img src="https://img.shields.io/github/commit-activity/y/pro-akbar/Complete-Food-Delivery-App-Flutter?style=flat-square&color=6E7781" alt="activity" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pro-akbar/fitness-terms-page">fitness-terms-page</a></td>
+    <td><img src="https://img.shields.io/github/last-commit/pro-akbar/fitness-terms-page?style=flat-square&color=0969DA" alt="last commit" /></td>
+    <td><img src="https://img.shields.io/github/commit-activity/y/pro-akbar/fitness-terms-page?style=flat-square&color=6E7781" alt="activity" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pro-akbar/balance-workout-terms">balance-workout-terms</a></td>
+    <td><img src="https://img.shields.io/github/last-commit/pro-akbar/balance-workout-terms?style=flat-square&color=0969DA" alt="last commit" /></td>
+    <td><img src="https://img.shields.io/github/commit-activity/y/pro-akbar/balance-workout-terms?style=flat-square&color=6E7781" alt="activity" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pro-akbar/GeoFlutterFire2">GeoFlutterFire2</a></td>
+    <td><img src="https://img.shields.io/github/last-commit/pro-akbar/GeoFlutterFire2?style=flat-square&color=0969DA" alt="last commit" /></td>
+    <td><img src="https://img.shields.io/github/commit-activity/y/pro-akbar/GeoFlutterFire2?style=flat-square&color=6E7781" alt="activity" /></td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,apple,firebase,spring,java,python,nodejs,postgres,docker,git,figma,aws,github&theme=dark" alt="stack" />
+<p align="center">
+  <a href="https://github.com/pro-akbar/Mimic-Ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pro-akbar&repo=Mimic-Ai&theme=github_dark&hide_border=true" alt="Mimic-Ai" />
+  </a>
+  <a href="https://github.com/pro-akbar/GeoFlutterFire2">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=pro-akbar&repo=GeoFlutterFire2&theme=github_dark&hide_border=true" alt="GeoFlutterFire2" />
+  </a>
+</p>
 
-<br/><br/>
+<h2>Selected work</h2>
 
-<img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Riverpod-000000?style=flat-square&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Bloc-000000?style=flat-square&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/GetX-000000?style=flat-square&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Stripe-000000?style=flat-square&logo=stripe&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=39FF14" />
+<p>Case studies: <a href="https://proakbar.netlify.app">proakbar.netlify.app</a></p>
 
-</div>
+<ul>
+  <li><b>PEC Live</b> — Official app for Pakistani engineers (membership, degree tracking, E-Card)</li>
+  <li><b>Jannat Al-Ard</b> — Saudi Umrah transport booking, donors, live scheduling</li>
+  <li><b>Rel8.app</b> — Australian care platform with WebRTC video calls</li>
+  <li><b>Resido</b> — Sri Lanka real-estate: homes, land, commercial</li>
+  <li><b>WEM Communities</b> — Events and festivals with live social feeds</li>
+  <li><b>Renew Fitness</b> — Workouts, progress tracking, subscriptions</li>
+</ul>
 
-<br/>
-
-```diff
-+ ./selected_work.json --pretty
-```
-
-<div align="center">
-
-| | App | About | Stack |
-|:---:|:---|:---|:---|
-| 🇵🇰 | **[PEC Live](https://proakbar.netlify.app)** | Official government app for Pakistani engineers — membership, degree tracking, E-Card | `Flutter` `REST` `FCM` |
-| 🇸🇦 | **[Jannat Al-Ard](https://proakbar.netlify.app)** | Saudi Umrah transport booking, donors, real-time scheduling | `Flutter` `Maps` `Push` |
-| 🇦🇺 | **[Rel8.app](https://proakbar.netlify.app)** | Australian care platform — workers, residents, families, WebRTC video | `Flutter` `Firestore` `Video` |
-| 🇱🇰 | **[Resido](https://proakbar.netlify.app)** | Sri Lanka real-estate — verified homes, land, commercial | `Flutter` `Auth` `Firestore` |
-| 🎉 | **[WEM Communities](https://proakbar.netlify.app)** | Events & festivals — live feeds, social | `Flutter` `Realtime DB` |
-| 💪 | **[Renew Fitness](https://proakbar.netlify.app)** | Workouts, progress, subscriptions | `Flutter` `Firestore` |
-
-`+ more on` **[proakbar.netlify.app](https://proakbar.netlify.app)** `— incl. Listia & PollyYa`
-
-</div>
-
-<br/>
-
-```diff
-+ ./github_stats.exe --render
-```
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pro-akbar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-akbar&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=pro-akbar&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=545d68" alt="GitHub streak" />
-
-<br/><br/>
-
-<sub><b>CONTRIBUTION MATRIX</b></sub><br/>
-<img src="https://ghchart.rshah.org/39FF14/pro-akbar" alt="GitHub contribution chart" />
-
-</div>
-
-<br/>
-
-```diff
-+ ./repos.sh --last-active
-```
-
-<div align="center">
-
-| Repository | Last Commit | Activity |
-|:---|:---:|:---:|
-| [**Mimic-Ai**](https://github.com/pro-akbar/Mimic-Ai) | ![last commit](https://img.shields.io/github/last-commit/pro-akbar/Mimic-Ai?style=flat-square&label=%20&color=39FF14&labelColor=0D1117) | ![commits](https://img.shields.io/github/commit-activity/y/pro-akbar/Mimic-Ai?style=flat-square&color=39FF14&labelColor=0D1117) |
-| [**Complete-Food-Delivery-App-Flutter**](https://github.com/pro-akbar/Complete-Food-Delivery-App-Flutter) | ![last commit](https://img.shields.io/github/last-commit/pro-akbar/Complete-Food-Delivery-App-Flutter?style=flat-square&label=%20&color=39FF14&labelColor=0D1117) | ![commits](https://img.shields.io/github/commit-activity/y/pro-akbar/Complete-Food-Delivery-App-Flutter?style=flat-square&color=39FF14&labelColor=0D1117) |
-| [**fitness-terms-page**](https://github.com/pro-akbar/fitness-terms-page) | ![last commit](https://img.shields.io/github/last-commit/pro-akbar/fitness-terms-page?style=flat-square&label=%20&color=39FF14&labelColor=0D1117) | ![commits](https://img.shields.io/github/commit-activity/y/pro-akbar/fitness-terms-page?style=flat-square&color=39FF14&labelColor=0D1117) |
-| [**balance-workout-terms**](https://github.com/pro-akbar/balance-workout-terms) | ![last commit](https://img.shields.io/github/last-commit/pro-akbar/balance-workout-terms?style=flat-square&label=%20&color=39FF14&labelColor=0D1117) | ![commits](https://img.shields.io/github/commit-activity/y/pro-akbar/balance-workout-terms?style=flat-square&color=39FF14&labelColor=0D1117) |
-| [**GeoFlutterFire2**](https://github.com/pro-akbar/GeoFlutterFire2) | ![last commit](https://img.shields.io/github/last-commit/pro-akbar/GeoFlutterFire2?style=flat-square&label=%20&color=39FF14&labelColor=0D1117) | ![commits](https://img.shields.io/github/commit-activity/y/pro-akbar/GeoFlutterFire2?style=flat-square&color=39FF14&labelColor=0D1117) |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  root@proakbar:~$ echo "let's build something that ships"│
-│  > connection ready — pick a channel below                │
-└─────────────────────────────────────────────────────────┘
-```
-
-**[proakbar.netlify.app](https://proakbar.netlify.app)** · **[akbarstudyinfo786@gmail.com](mailto:akbarstudyinfo786@gmail.com)** · **[+92 316 6424855](https://wa.me/923166424855)**
-
-<img src="https://komarev.com/ghpvc/?username=pro-akbar&style=for-the-badge&color=39FF14&labelColor=0D1117" alt="Profile views" />
-
-</div>
+<p align="center">
+  Open to new opportunities<br/>
+  <a href="https://proakbar.netlify.app">proakbar.netlify.app</a>
+  ·
+  <a href="mailto:akbarstudyinfo786@gmail.com">akbarstudyinfo786@gmail.com</a>
+  ·
+  +92 316 6424855
+</p>
